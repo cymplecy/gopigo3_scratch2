@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/home/pi/GoPiGo3/Software/Scratch/gopigo3scratch2.sh
+Icon=scratch
+Terminal=false
+Name=GoPiGo3 Scratch2
+Comment= Programming system and content development tool
+Categories=Application;Education;Development;
+MimeType=application/x-scratch-project
